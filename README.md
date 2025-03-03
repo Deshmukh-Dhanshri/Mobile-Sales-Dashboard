@@ -3,9 +3,13 @@ This Mobile Sales Dashboard is built using Power BI to visualize and analyze mob
 Features
 
 Key Performance Indicators (KPIs):
+
 Total Sales: 57M
+
 Total Quantity Sold: 2K
+
 Total Transactions: 315
+
 Average Price: 38.04K
 
 Filters for Better Insights
@@ -15,12 +19,19 @@ Filters for Better Insights
 -Brand
 
 Data Visualizations:
+ 
  Geographical Insights: Count of brands by city (Map visualization)
+ 
  Sales Trends: Total sales by mobile model, day name, and month
+ 
  Payment Analysis: Transactions categorized by payment method
+ 
  Customer Feedback: Sum of customer age by ratings
 
  Technologies Used
+
 Power BI - Data visualization and dashboard creation
+
 DAX (Data Analysis Expressions) - Used for calculations and aggregations
+
 SQL (MySQL) - Data extraction and transformation
